@@ -1,5 +1,4 @@
-                                                         Uber Trips Insight
-
+                                                         UBER TRIPS INSIGHT
  Project Overview
  
  This project dives deep into Uber ride data from Kaggle, exploring hidden patterns in user behavior, travel demand, and location trends.
